@@ -7,7 +7,6 @@
 ![Windows](https://img.shields.io/badge/Windows-11-0078D6?logo=windows11&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)
-
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
