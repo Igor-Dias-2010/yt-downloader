@@ -11,12 +11,14 @@ Downloader simples e poderoso de vídeos do YouTube feito em Python.
 ```bash
 pip install -r requirements.txt
 ```
+
 ## Executar o programa:
+
 Rode:
 
 ```bash
 python yt_downloader.py
-````
+```
 
 ## Como usar Cookies (para vídeos com restrição de idade, +18, privados, etc)
 
@@ -40,3 +42,29 @@ no Chrome.
 5. No menu do programa, escolha a opção 7 para ativar os cookies.
 
 **Para baixar vídeos normais não precisa fazer nada com cookies**
+
+---
+
+## Instalação do FFmpeg (necessário para unir vídeo e áudio)
+
+Para baixar vídeos na melhor qualidade, o programa utiliza o FFmpeg para unir o vídeo e o áudio em um único arquivo.
+
+### Instalação (Windows)
+
+Abra o PowerShell e execute:
+
+```powershell
+winget install Gyan.FFmpeg
+```
+
+Após a instalação, feche e abra novamente o terminal.
+
+Para verificar se a instalação foi concluída corretamente, execute:
+
+```powershell
+ffmpeg -version
+```
+
+Se aparecer a versão do FFmpeg, está tudo pronto.
+
+> **Sem o FFmpeg**, vídeos baixados na melhor qualidade poderão ser salvos em dois arquivos separados (um de vídeo e outro de áudio), em vez de um único arquivo `.mp4`.
