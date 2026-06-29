@@ -8,12 +8,11 @@ Downloader simples e poderoso de vídeos do YouTube feito em Python.
 2. Extraia a pasta
 3. Abra o terminal dentro da pasta do projeto e rode:
 
-````bash
+```bash
 pip install -r requirements.txt
-
+```
 ## Executar o programa:
 Rode:
-```
 
 ```bash
 python yt_downloader.py
