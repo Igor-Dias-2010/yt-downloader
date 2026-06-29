@@ -28,7 +28,7 @@ pip install -r requirements.txt
 Rode:
 
 ```bash
-python yt_downloader.py
+python baixar_yt.py
 ```
 
 ## Como usar Cookies (para vídeos com restrição de idade, +18, privados, etc)
