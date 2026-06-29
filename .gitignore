@@ -1,5 +1,6 @@
 # Pastas ignoradas
 __pycache__/
+Downloads/
 *.pyc
 *.pyo
 
