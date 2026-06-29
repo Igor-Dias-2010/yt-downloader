@@ -58,7 +58,7 @@ def menu():
 
 
 def main():
-    pasta_download = "Downloads"
+    pasta_download = os.path.join(os.path.dirname(os.path.abspath(__file__)), "Downloads")
     usar_cookies = False
 
     if not os.path.exists(pasta_download):
