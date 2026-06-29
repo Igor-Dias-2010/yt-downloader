@@ -30,9 +30,12 @@ Get cookies.txt LOCALLY
 
 ou baixe direto por [aqui](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc)
 no Chrome ou Edge. 
-2. Acesse o YouTube logado na sua conta. 
+2. Acesse o YouTube logado na sua conta.
+
 3. Clique no ícone da extensão e selecione Export.
-4. Salve o arquivo como cookies.txt na mesma pasta do programa. 
+
+4. Salve o arquivo como cookies.txt na mesma pasta do programa.
+
 5. No menu do programa, escolha a opção 7 para ativar os cookies.
 
 **Para baixar vídeos normais não precisa fazer nada com cookies**
