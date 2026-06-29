@@ -29,7 +29,8 @@ Get cookies.txt LOCALLY
 ```
 
 ou baixe direto por [aqui](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc)
-no Chrome ou Edge. 
+no Chrome ou Edge.
+
 2. Acesse o YouTube logado na sua conta.
 
 3. Clique no ícone da extensão e selecione Export.
