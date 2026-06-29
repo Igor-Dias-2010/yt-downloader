@@ -127,6 +127,7 @@ def main():
         # Configuração do yt-dlp
         opcoes = {
             "outtmpl": f"{pasta_download}/%(title)s.%(ext)s",
+            "merge_output_format": "mp4",
             "progress_hooks": [
                 lambda d: (
                     print(f"  {d.get('status', '')} - {d.get('_percent_str', '')}")
