@@ -1,0 +1,13 @@
+# Pastas ignoradas
+__pycache__/
+Downloads/
+*.pyc
+*.pyo
+
+# Arquivos sensíveis
+cookies.txt
+.env
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
