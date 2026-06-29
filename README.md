@@ -1,5 +1,17 @@
 # 🎥 YT Downloader
 
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
+![yt-dlp](https://img.shields.io/badge/yt--dlp-Library-red)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-Enabled-007808?logo=ffmpeg&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-Data-black?logo=json&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-IDE-007ACC?logo=visualstudiocode&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-11-0078D6?logo=windows11&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)
+
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 Downloader simples e poderoso de vídeos do YouTube feito em Python.
 
 ## Como instalar
