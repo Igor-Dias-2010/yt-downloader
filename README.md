@@ -89,3 +89,15 @@ No Windows, instale com:
 ```bash
 winget install DenoLand.Deno && echo 'Instalado com sucesso✅'
 ```
+
+Após a instalação, feche e abra novamente o terminal.
+
+Para verificar se a instalação foi concluída corretamente, execute:
+
+```powershell
+deno --version
+```
+
+Se aparecer a versão do Deno, está tudo pronto.
+
+> **Sem o Deno**, alguns vídeos podem não baixar corretamente, alguns formatos podem ficar indisponíveis e avisos podem aparecer durante a execução do programa.
