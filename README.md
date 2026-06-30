@@ -20,7 +20,7 @@ Downloader simples e poderoso de vídeos do YouTube feito em Python.
 3. Abra o terminal dentro da pasta do projeto e rode:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt && echo 'Instalado com sucesso✅'
 ```
 
 ## Executar o programa:
@@ -79,3 +79,13 @@ ffmpeg -version
 Se aparecer a versão do FFmpeg, está tudo pronto.
 
 > **Sem o FFmpeg**, vídeos baixados na melhor qualidade poderão ser salvos em dois arquivos separados (um de vídeo e outro de áudio), em vez de um único arquivo `.mp4`.
+
+## Instalar o Deno (recomendado)
+
+O `yt-dlp` utiliza um runtime JavaScript para obter compatibilidade total com o YouTube. Sem ele, alguns vídeos podem não baixar corretamente.
+
+No Windows, instale com:
+
+```bash
+winget install DenoLand.Deno && echo 'Instalado com sucesso✅'
+```
