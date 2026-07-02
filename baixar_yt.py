@@ -52,7 +52,7 @@ def menu():
     print("5. Baixar Múltiplos Links")
     print("6. Ver Histórico de Downloads")
     print("7. Usar Cookies (para vídeos restritos)")
-    print("8. Mudar Pasta de Download")
+    print("8. Mudar Pasta de Download (em desenvolvimento)")
     print("0. Sair")
     print("=" * 55)
 
