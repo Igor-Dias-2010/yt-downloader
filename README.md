@@ -15,17 +15,17 @@ Downloader simples e poderoso de vídeos do YouTube feito em Python.
 
 ## Como instalar
 
-1. Baixe este repositório (Code → Download ZIP)
+1. Clique em **Code** → **Download ZIP**
 2. Extraia a pasta
-3. Abra o terminal dentro da pasta do projeto e rode:
+3. Abra o terminal dentro da pasta do projeto e execute:
 
 ```bash
 pip install -r requirements.txt && echo 'Instalado com sucesso✅'
 ```
 
-## Executar o programa:
+## Executar o programa
 
-Rode:
+Execute:
 
 ```bash
 python baixar_yt.py
@@ -37,18 +37,17 @@ python baixar_yt.py
 
 1. Instale a extensão
 
-```bash
+```text
 Get cookies.txt LOCALLY
 ```
 
-ou baixe direto por [aqui](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc)
-no Chrome.
+ou baixe direto pela [Chrome Web Store](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc)
 
 2. Acesse o YouTube logado na sua conta.
 
-3. Clique no ícone da extensão e selecione Export.
+3. Clique no ícone da extensão e selecione **Export**.
 
-4. Salve o arquivo como cookies.txt na mesma pasta do programa.
+4. Salve o arquivo como `cookies.txt` na mesma pasta do programa.
 
 5. No menu do programa, escolha a opção 7 para ativar os cookies.
 
@@ -79,6 +78,8 @@ ffmpeg -version
 Se aparecer a versão do FFmpeg, está tudo pronto.
 
 > **Sem o FFmpeg**, vídeos baixados na melhor qualidade poderão ser salvos em dois arquivos separados (um de vídeo e outro de áudio), em vez de um único arquivo `.mp4`.
+
+---
 
 ## Instalar o Deno (recomendado)
 
