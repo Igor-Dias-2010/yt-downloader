@@ -1,4 +1,4 @@
-# 🎥 YT Downloader
+# 🎥 YT Downloader Windows
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
 ![yt-dlp](https://img.shields.io/badge/yt--dlp-Library-red)
